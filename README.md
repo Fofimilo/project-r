@@ -1,2 +1,2 @@
 # project-r
-to see the end result:[qui](Project_Sofia_Milone.html)
+to see the end result: [here](Project_Sofia_Milone.html)
